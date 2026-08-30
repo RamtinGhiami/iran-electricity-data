@@ -1,0 +1,11 @@
+{
+  "source": "OWID energy dataset (Ember / Energy Institute), raw payload retained",
+  "latest_common_year": 2025,
+  "iran_generation_twh_latest": 395.8,
+  "gen_cagr_decade_iran_pct": 3.51,
+  "gen_cagr_decade_world_pct": 2.84,
+  "gen_cagr_deficit_era_iran_pct": 3.67,
+  "gen_cagr_deficit_era_world_pct": 2.86,
+  "per_capita_kwh_iran_latest": 4283,
+  "per_capita_kwh_world_latest": 3860
+}

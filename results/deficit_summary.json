@@ -1,0 +1,12 @@
+{
+  "definition": "deficit = max simultaneous demand - max supplied load, at the annual peak (Tavanir 58-year table; 1404 from the official-statistics workbook, grid basis)",
+  "deficit_1403_mw": 17557.0,
+  "deficit_1403_pct": 21.9,
+  "deficit_1404_mw": 14921.0,
+  "deficit_1404_pct": 19.3,
+  "demand_cagr_1395_1403_pct": 5.2,
+  "supplied_cagr_1395_1403_pct": 2.3,
+  "deficit_onset_year": 1369,
+  "n_years": 36,
+  "monthly_peaks_through": "1405-05"
+}

@@ -1,0 +1,5 @@
+# The frozen snapshot is checksummed byte-for-byte in data/MANIFEST.json.
+# Git must never normalise line endings there: a CRLF conversion on checkout
+# would silently break every recorded SHA-256.
+data/** -text
+results/** -text

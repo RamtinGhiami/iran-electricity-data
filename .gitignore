@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# everything from the finished inflation project, kept local for reference
+# (all of it is preserved in the RamtinGhiami/iran-inflation-data repo)
+/archive-inflation/
+
+# manually collected official data (not published yet; registered in PROVENANCE.md)
+/manual-data/
+
+# local-only extras: presentation guide, LaTeX compiler binary, intermediate pdf
+/rahnamaye-erae-fa.pdf
+/paper/tectonic/
+/paper/iran-electricity.pdf

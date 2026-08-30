@@ -1,0 +1,17 @@
+{
+  "model": "log-linear trends; demand fit 1390-1404, supplied fit 1395-1404; residual bootstrap n=4000, seed 14050607",
+  "demand_trend_pct_per_yr": 4.71,
+  "supplied_trend_pct_per_yr": 2.04,
+  "deficit_1408_gw": 27.8,
+  "deficit_1408_band_gw": [
+    22.6,
+    32.9
+  ],
+  "deficit_1412_gw": 41.5,
+  "deficit_1412_band_gw": [
+    35.3,
+    46.9
+  ],
+  "deficit_1412_pct_of_demand": 35.9,
+  "gw_of_new_dependable_capacity_to_close_by_1412": 41.5
+}
