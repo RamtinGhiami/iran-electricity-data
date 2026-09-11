@@ -48,14 +48,14 @@ def main():
             return
         n = cur_nums
         base = {"year": cur_year}
-        if len(n) >= 11 and cur_year >= 1385:   # the split is published from 1385
+        if len(n) >= 11 and cur_year >= 1380:   # the split is published from 1380
             base.update(loss_total_pct=n[0], loss_transmission_pct=n[1],
                         loss_distribution_pct=n[2], thermal_efficiency_pct=n[3],
                         capacity_per_capita_w=n[4], generation_per_capita_kwh=n[5],
                         share_residential_pct=n[6], share_industrial_pct=n[7],
                         share_other_pct=n[8], share_nonthermal_pct=n[9],
                         share_thermal_pct=n[10])
-        elif len(n) >= 9:           # 1346–1384: total losses only
+        elif len(n) >= 9:           # 1346–1379: total losses only
             base.update(loss_total_pct=n[0], loss_transmission_pct=None,
                         loss_distribution_pct=None, thermal_efficiency_pct=n[1],
                         capacity_per_capita_w=n[2], generation_per_capita_kwh=n[3],
